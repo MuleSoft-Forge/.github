@@ -1,16 +1,15 @@
 ![image](https://github.com/user-attachments/assets/32289766-e536-4f36-b956-2d135cb7d872)
-Welcome to MuleSoft Forge: Community-Driven Assets
-Purpose: The one-stop shop for Community Assets 
+# Welcome to MuleSoft Forge: Community-Driven Assets
 
-Imagine a single, vibrant space where powerful MuleSoft assets, crafted by our community, lives and thrives. We know there are already wonderful contributions out there, scattered across the ecosystem. Let's bring them together. MuleSoft Forge is the unified, open-source hub, built for us, by us – the definitive destination for all community contributions, both existing and future.
+1
 
-Your invitation to Build
+**Purpose: The one-stop shop for Community Assets**
 
-Join us on GitHub. Your skills, your passion, your contributions – they're the foundation of MuleSoft Forge. Be part of creating a vital resource center for the entire MuleSoft community. Let's build this together.
+Imagine a single, vibrant space where powerful MuleSoft assets, crafted by our community, lives and thrives. We know there are **already wonderful contributions out there**, scattered across the ecosystem. **Let's bring them together**. MuleSoft Forge is the unified, open-source hub, built for us, by us – the definitive destination for all community contributions, both existing and future.
 
+2
 
-• How to Contribute
+**Your invitation to Build**
 
-• Reach out and post us a message
-
+Join us on [GitHub](https://github.com/MuleSoft-Forge). Your skills, your passion, your contributions – they're the foundation of MuleSoft Forge. Be part of creating a **vital resource center** for the entire MuleSoft community. **Let's build this together.   • **How to [Contribute](https://docs.mulesoftforge.com/mulesoft-forge-initiative/how-to-contribute)** • **Reach out and post us a message
 
