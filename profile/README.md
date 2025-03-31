@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/32289766-e536-4f36-b956-2d135cb7d872)
+![Screenshot 2025-03-20 at 23 44 44](https://github.com/user-attachments/assets/b1317279-b711-477d-9d90-fa67421b703d)
+
 # Welcome to MuleSoft Forge: Community-Driven Assets
 
 1
