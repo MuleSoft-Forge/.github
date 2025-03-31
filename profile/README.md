@@ -1,12 +1,15 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/32289766-e536-4f36-b956-2d135cb7d872)
+# Welcome to MuleSoft Forge: Community-Driven Assets
 
-<!--
+1
 
-**Here are some ideas to get you started:**
+**Purpose: The one-stop shop for Community Assets**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Imagine a single, vibrant space where powerful MuleSoft assets, crafted by our community, lives and thrives. We know there are **already wonderful contributions out there**, scattered across the ecosystem. **Let's bring them together**. MuleSoft Forge is the unified, open-source hub, built for us, by us – the definitive destination for all community contributions, both existing and future.
+
+2
+
+**Your invitation to Build**
+
+Join us on [GitHub](https://github.com/MuleSoft-Forge). Your skills, your passion, your contributions – they're the foundation of MuleSoft Forge. Be part of creating a **vital resource center** for the entire MuleSoft community. **Let's build this together.   • **How to [Contribute](https://docs.mulesoftforge.com/mulesoft-forge-initiative/how-to-contribute)** • **Reach out and post us a message
+
