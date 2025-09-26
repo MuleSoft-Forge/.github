@@ -7,6 +7,7 @@
 **Purpose: The one-stop shop for Community Assets**
 
 Imagine a single, vibrant space where powerful MuleSoft assets, crafted by our community, lives and thrives. We know there are **already wonderful contributions out there**, scattered across the ecosystem. **Let's bring them together**. MuleSoftForge is the unified, open-source hub, built for us, by us – the definitive destination for all community contributions, both existing and future.
+![mulesoftdevelopers_logo](https://github.com/user-attachments/assets/5895880b-a93c-4ea2-a607-16092d8fe677)
 
 2
 
